@@ -6,7 +6,7 @@
 
 steps:
 - install composer
-- git clone github.com/baahgi/libsystem
+- git clone https://github.com/baahgi/libsystem.git
 - cd libsystem
 - composer update
 - cp .env.example .env
