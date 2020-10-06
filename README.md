@@ -2,7 +2,7 @@
 
 ## This is a library management system by Baah Gideon. 
 
-- You can clone this app and use it anyhow you want.
+ You can clone this app and use it anyhow you want.
 
 steps:
 - install composer
